@@ -1,3 +1,4 @@
+<img width="1091" height="821" alt="Looks" src="https://github.com/user-attachments/assets/7ce28a01-854e-4e83-971e-e3cfb429a496" />
 [README.md](https://github.com/user-attachments/files/34942125/README.md)
 # Fortnite Pirate Token Cope
 # Pirate Token Drop Simulator
